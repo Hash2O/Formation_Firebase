@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1073998855629",
+    "firebase_url": "https://formation-flash-firestore-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "formation-flash-firestore",
+    "storage_bucket": "formation-flash-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073998855629:android:940bb41df5cfdd5e85d884",
+        "android_client_info": {
+          "package_name": "com.flash.formationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073998855629-k82o0949fm7ncqt6jp8uaam2ss1f6r0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAmyj_fRfaSinWoXAgu5NNxvJM6I5cqbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073998855629-k82o0949fm7ncqt6jp8uaam2ss1f6r0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
